@@ -1,0 +1,2 @@
+D:/HONOR Share/Currency converter/android/app/.cxx/Debug/i421n1l5/x86/CMakeFiles/edit_cache.dir
+D:/HONOR Share/Currency converter/android/app/.cxx/Debug/i421n1l5/x86/CMakeFiles/rebuild_cache.dir

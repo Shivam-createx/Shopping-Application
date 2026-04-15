@@ -1,0 +1,2 @@
+D:/Flutter Apps/Shopping app/android/app/.cxx/Debug/k6w3b431/x86_64/CMakeFiles/edit_cache.dir
+D:/Flutter Apps/Shopping app/android/app/.cxx/Debug/k6w3b431/x86_64/CMakeFiles/rebuild_cache.dir
