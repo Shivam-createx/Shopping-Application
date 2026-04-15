@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-Build shopping application with the help of provider, responsive ui with state management,
+Build shopping application with the help of provider,
+Responsive ui with state management,
 Implemented various ui/ux compeonents.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
